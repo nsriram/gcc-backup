@@ -1,0 +1,667 @@
+[
+  {
+    "serialNumber": 1,
+    "zone": 4,
+    "div": 34,
+    "area": "Venkatesh Colony 1st Street, Kodungaiyur",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 2,
+    "zone": 4,
+    "div": 35,
+    "area": "Krishnan Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 3,
+    "zone": 4,
+    "div": 35,
+    "area": "Ambedkar Street, Erukkancherry",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 4,
+    "zone": 4,
+    "div": 36,
+    "area": "Thiruvallur Nagar, 7th Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 5,
+    "zone": 4,
+    "div": 37,
+    "area": "KKD Nagar 6th block, 2nd Cross Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 6,
+    "zone": 4,
+    "div": 37,
+    "area": "MKB Nagar, 15th West Cross Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 7,
+    "zone": 4,
+    "div": 38,
+    "area": "Nethaji Nagar 2nd Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 8,
+    "zone": 4,
+    "div": 38,
+    "area": "Nethaji Nagar 3rd Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 9,
+    "zone": 4,
+    "div": 38,
+    "area": "Nethaji Nagar 4th Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 10,
+    "zone": 4,
+    "div": 38,
+    "area": "Nethaji Nagar 5th Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 11,
+    "zone": 4,
+    "div": 38,
+    "area": "Nethaji Nagar 1st Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 12,
+    "zone": 4,
+    "div": 38,
+    "area": "Karunanidhi Nagar 4th Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 13,
+    "zone": 4,
+    "div": 39,
+    "area": "Butchammal Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 14,
+    "zone": 4,
+    "div": 39,
+    "area": "Avoormuthaiah Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 15,
+    "zone": 4,
+    "div": 39,
+    "area": "Vasar Varadappan Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 16,
+    "zone": 4,
+    "div": 39,
+    "area": "Nammaiah Maistry Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 17,
+    "zone": 4,
+    "div": 39,
+    "area": "Nagoor Thottam",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 18,
+    "zone": 4,
+    "div": 39,
+    "area": "Veeraraghavan Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 19,
+    "zone": 4,
+    "div": 40,
+    "area": "Sivagami Nagar",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 20,
+    "zone": 4,
+    "div": 40,
+    "area": "Mangammal Garden",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 21,
+    "zone": 4,
+    "div": 40,
+    "area": "Keerai Thottam",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 22,
+    "zone": 4,
+    "div": 44,
+    "area": "Nattal Garden 2nd Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 23,
+    "zone": 4,
+    "div": 45,
+    "area": "BV Colony 5th Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 24,
+    "zone": 4,
+    "div": 48,
+    "area": "Solayappan Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 25,
+    "zone": 5,
+    "div": 52,
+    "area": "OSH Road (Anjaneya Nagar 10th Street)",
+    "containmentInitiatedDate": "02.06.2020"
+  },
+  {
+    "serialNumber": 26,
+    "zone": 5,
+    "div": 59,
+    "area": "Nanian Street",
+    "containmentInitiatedDate": "03.06.2020"
+  },
+  {
+    "serialNumber": 27,
+    "zone": 5,
+    "div": 59,
+    "area": "Mannar Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 28,
+    "zone": 6,
+    "div": 71,
+    "area": "Basiam Street",
+    "containmentInitiatedDate": "13.06.2020"
+  },
+  {
+    "serialNumber": 29,
+    "zone": 6,
+    "div": 75,
+    "area": "Chellapapa Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 30,
+    "zone": 6,
+    "div": 76,
+    "area": "Venkatesha Bathan Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 31,
+    "zone": 7,
+    "div": 83,
+    "area": "Jeevan Bhima Nagar, Anna Nagar West Extension, Chennai 101 ",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 32,
+    "zone": 7,
+    "div": 83,
+    "area": "6, Kandikai Stret, TVS Nagar East, Korattur",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 33,
+    "zone": 9,
+    "div": 114,
+    "area": "Santhai Street Triplicane",
+    "containmentInitiatedDate": "01.06.2020"
+  },
+  {
+    "serialNumber": 34,
+    "zone": 9,
+    "div": 116,
+    "area": "Swamy Street Triplicane",
+    "containmentInitiatedDate": "09.06.2020"
+  },
+  {
+    "serialNumber": 35,
+    "zone": 9,
+    "div": 116,
+    "area": "Eswara dass street Triplicane",
+    "containmentInitiatedDate": "09.06.2020"
+  },
+  {
+    "serialNumber": 36,
+    "zone": 10,
+    "div": 127,
+    "area": "Sivan Koil Street",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 37,
+    "zone": 10,
+    "div": 127,
+    "area": "SAF Games Village Koyambedu",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 38,
+    "zone": 10,
+    "div": 128,
+    "area": "Bazar Street Nesapakkam",
+    "containmentInitiatedDate": "12.06.2020"
+  },
+  {
+    "serialNumber": 39,
+    "zone": 10,
+    "div": 128,
+    "area": "Mariyamman Koil Street, KK Nagar",
+    "containmentInitiatedDate": "30.05.2020"
+  },
+  {
+    "serialNumber": 40,
+    "zone": 10,
+    "div": 129,
+    "area": "Arunachalam Road, Saligramam",
+    "containmentInitiatedDate": "01.06.2020"
+  },
+  {
+    "serialNumber": 41,
+    "zone": 10,
+    "div": 129,
+    "area": "Janakiramam Street, Saligramam",
+    "containmentInitiatedDate": "01.06.2020"
+  },
+  {
+    "serialNumber": 42,
+    "zone": 10,
+    "div": 129,
+    "area": "Arcot Road, Saligramam",
+    "containmentInitiatedDate": "02.06.2020"
+  },
+  {
+    "serialNumber": 43,
+    "zone": 10,
+    "div": 130,
+    "area": "Pillayar Koil Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 44,
+    "zone": 10,
+    "div": 130,
+    "area": "Thirunagar 1st Street",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 45,
+    "zone": 10,
+    "div": 130,
+    "area": "Gangaiamman Koil Street, Vadapalani",
+    "containmentInitiatedDate": "29.05.2020"
+  },
+  {
+    "serialNumber": 46,
+    "zone": 10,
+    "div": 131,
+    "area": "Double tank colony, KK Nagar",
+    "containmentInitiatedDate": "09.06.2020"
+  },
+  {
+    "serialNumber": 47,
+    "zone": 10,
+    "div": 131,
+    "area": "Nakkeeran Street, MGR Nagar",
+    "containmentInitiatedDate": "11.06.2020"
+  },
+  {
+    "serialNumber": 48,
+    "zone": 10,
+    "div": 131,
+    "area": "Rani Annai Nagar, KK Nagar",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 49,
+    "zone": 10,
+    "div": 132,
+    "area": "18th Avenue, Ashok Nagar",
+    "containmentInitiatedDate": "07.06.2020"
+  },
+  {
+    "serialNumber": 50,
+    "zone": 10,
+    "div": 132,
+    "area": "12th Street, Ashok Nagar",
+    "containmentInitiatedDate": "29.05.2020"
+  },
+  {
+    "serialNumber": 51,
+    "zone": 10,
+    "div": 132,
+    "area": "13th Street, Ashok Nagar",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 52,
+    "zone": 10,
+    "div": 133,
+    "area": "Rukmani Street, West Mambalam",
+    "containmentInitiatedDate": "10.06.2020"
+  },
+  {
+    "serialNumber": 53,
+    "zone": 10,
+    "div": 133,
+    "area": "Muthallaman Kovil Street, West Mambalam",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 54,
+    "zone": 10,
+    "div": 133,
+    "area": "22nd Street, 5th Avenue, Ashok Nagar",
+    "containmentInitiatedDate": "11.06.2020"
+  },
+  {
+    "serialNumber": 55,
+    "zone": 10,
+    "div": 133,
+    "area": "Palayakaran Street",
+    "containmentInitiatedDate": "03.06.2020"
+  },
+  {
+    "serialNumber": 56,
+    "zone": 10,
+    "div": 133,
+    "area": "16th Street, Ashok Nagar",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 57,
+    "zone": 10,
+    "div": 134,
+    "area": "Central Avenue, Kodambakkam",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 58,
+    "zone": 10,
+    "div": 134,
+    "area": "Akbarabad 1st Street",
+    "containmentInitiatedDate": "03.06.2020"
+  },
+  {
+    "serialNumber": 59,
+    "zone": 10,
+    "div": 135,
+    "area": "Sathyanarayana Street, West Mambalam",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 60,
+    "zone": 10,
+    "div": 135,
+    "area": "Jubilee Road, West Mambalam",
+    "containmentInitiatedDate": "09.06.2020"
+  },
+  {
+    "serialNumber": 61,
+    "zone": 10,
+    "div": 135,
+    "area": "Lake View Road, West Mambalam",
+    "containmentInitiatedDate": "06.06.2020"
+  },
+  {
+    "serialNumber": 62,
+    "zone": 10,
+    "div": 135,
+    "area": "Gandhi Street, West Mambalam",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 63,
+    "zone": 10,
+    "div": 135,
+    "area": "Ganapathy Street, West Mambalam",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 64,
+    "zone": 10,
+    "div": 136,
+    "area": "Mahalakshmi Street, T Nagar",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 65,
+    "zone": 10,
+    "div": 136,
+    "area": "Raja pillai thottam anandan Street",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 66,
+    "zone": 10,
+    "div": 136,
+    "area": "Mothilal Street, T Nagar",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 67,
+    "zone": 10,
+    "div": 137,
+    "area": "Velunachiyar Street, MGR Nagar, Karunanidhi Nagar",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 68,
+    "zone": 10,
+    "div": 137,
+    "area": "Elumalai Street, Bharathi Nagar",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 69,
+    "zone": 10,
+    "div": 138,
+    "area": "KK Salai, MGR Nagar",
+    "containmentInitiatedDate": "31,05.2020"
+  },
+  {
+    "serialNumber": 70,
+    "zone": 10,
+    "div": 138,
+    "area": "Sundarar Street,MGR Nagar",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 71,
+    "zone": 10,
+    "div": 138,
+    "area": "Jahir Hussain Street,MGR Nagar",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 72,
+    "zone": 10,
+    "div": 138,
+    "area": "Sanjai Gandhi Street,MGR Nagar",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 73,
+    "zone": 10,
+    "div": 138,
+    "area": "Rani Annadurai Street,MGR Nagar",
+    "containmentInitiatedDate": "01.06.2020"
+  },
+  {
+    "serialNumber": 74,
+    "zone": 10,
+    "div": 139,
+    "area": "RV Nagar, Jafferkhanpet",
+    "containmentInitiatedDate": "28.05.2020"
+  },
+  {
+    "serialNumber": 75,
+    "zone": 10,
+    "div": 139,
+    "area": "Annamalai Nagar, 3rd Street, West Mambalam",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 76,
+    "zone": 10,
+    "div": 139,
+    "area": "Punniyakodi Street,Saidapet",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 77,
+    "zone": 10,
+    "div": 139,
+    "area": "Gangaiamman Kovil Street",
+    "containmentInitiatedDate": "30.05.2020"
+  },
+  {
+    "serialNumber": 78,
+    "zone": 10,
+    "div": 139,
+    "area": "Devanaidu Street, Saidapet",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 79,
+    "zone": 10,
+    "div": 140,
+    "area": "Sadaiyappan Street, Saidapet",
+    "containmentInitiatedDate": "09.06.2020"
+  },
+  {
+    "serialNumber": 80,
+    "zone": 10,
+    "div": 140,
+    "area": "Dhanapal Street,West Mambalam",
+    "containmentInitiatedDate": "03.06.2020"
+  },
+  {
+    "serialNumber": 81,
+    "zone": 10,
+    "div": 141,
+    "area": "2nd Main Road, CIT Nagar, Nandanam",
+    "containmentInitiatedDate": "08.06.2020"
+  },
+  {
+    "serialNumber": 82,
+    "zone": 10,
+    "div": 141,
+    "area": "Muthurangan Salai, T.Nagar",
+    "containmentInitiatedDate": "10.06.2020"
+  },
+  {
+    "serialNumber": 83,
+    "zone": 10,
+    "div": 141,
+    "area": "CIT Nagar, 1st cross street",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 84,
+    "zone": 10,
+    "div": 141,
+    "area": "New Boak Road",
+    "containmentInitiatedDate": "29.05.2020"
+  },
+  {
+    "serialNumber": 85,
+    "zone": 10,
+    "div": 141,
+    "area": "Chitti Vinayagar Koil Street, T Nagar",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 86,
+    "zone": 10,
+    "div": 142,
+    "area": "Kothawal chavadi street, West Saidapet",
+    "containmentInitiatedDate": "29.05.2020"
+  },
+  {
+    "serialNumber": 87,
+    "zone": 10,
+    "div": 142,
+    "area": "Karunanidhi Nagar, Saidapet",
+    "containmentInitiatedDate": "07.06.2020"
+  },
+  {
+    "serialNumber": 88,
+    "zone": 10,
+    "div": 142,
+    "area": "Goda Medu, New Housing Board",
+    "containmentInitiatedDate": "01.06.2020"
+  },
+  {
+    "serialNumber": 89,
+    "zone": 10,
+    "div": 142,
+    "area": "Bazar Road, Saidapet",
+    "containmentInitiatedDate": "31.05.2020"
+  },
+  {
+    "serialNumber": 90,
+    "zone": 14,
+    "div": 183,
+    "area": "ECR Road, Kottivakkam",
+    "containmentInitiatedDate": "02.06.2020"
+  },
+  {
+    "serialNumber": 91,
+    "zone": 14,
+    "div": 184,
+    "area": "Radhakrishnan Street, Ambedkar Puratchi Nagar",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 92,
+    "zone": 15,
+    "div": 193,
+    "area": "Selvakumar Avenue, Thuraipakkam ",
+    "containmentInitiatedDate": "02.06.2020"
+  },
+  {
+    "serialNumber": 93,
+    "zone": 15,
+    "div": 193,
+    "area": "Pandian Nagar, Thuraipakkam ",
+    "containmentInitiatedDate": "04.06.2020"
+  },
+  {
+    "serialNumber": 94,
+    "zone": 15,
+    "div": 194,
+    "area": "Kamarajar Street ",
+    "containmentInitiatedDate": "05.06.2020"
+  },
+  {
+    "serialNumber": 95,
+    "zone": 15,
+    "div": 200,
+    "area": "40th Cross Street ",
+    "containmentInitiatedDate": "03.06.2020"
+  }
+]
