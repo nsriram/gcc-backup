@@ -1,4 +1,6 @@
-#GCC (Greater Chennai Corporation) Backup
+# Chennai COVID19 Containment Zones & Streets
+
+Backup of data published by GCC (Greater Chennai Corporation).
 
 This data is used in https://chennai-zones.herokuapp.com and also available for general use.
 
