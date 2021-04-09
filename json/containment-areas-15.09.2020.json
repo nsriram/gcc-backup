@@ -1,0 +1,54 @@
+{
+  "date": "15.09.2020",
+  "records": [
+    {
+      "serialNumber": 1,
+      "zone": 3,
+      "div": 22,
+      "area": "11,Kannappasamy Nagar 22nd Street,",
+      "containmentInitiatedDate": "04.09.2020"
+    },
+    {
+      "serialNumber": 2,
+      "zone": 3,
+      "div": 24,
+      "area": "10 Venkateshwara Nagar 5th st",
+      "containmentInitiatedDate": "06.09.2020"
+    },
+    {
+      "serialNumber": 3,
+      "zone": 3,
+      "div": 26,
+      "area": "9/13 Iyyappan Nagar 3rd Crossst",
+      "containmentInitiatedDate": "05.09.2020"
+    },
+    {
+      "serialNumber": 4,
+      "zone": 3,
+      "div": 32,
+      "area": "20 32 PRH Road",
+      "containmentInitiatedDate": "03.09.2020"
+    },
+    {
+      "serialNumber": 5,
+      "zone": 3,
+      "div": 33,
+      "area": "Vasudevan Garden 3rd Street",
+      "containmentInitiatedDate": "31.08.2020"
+    },
+    {
+      "serialNumber": 6,
+      "zone": 3,
+      "div": 33,
+      "area": "Voc Street",
+      "containmentInitiatedDate": "31.08.2020"
+    },
+    {
+      "serialNumber": 7,
+      "zone": 3,
+      "div": 33,
+      "area": "Elumalai Nagar",
+      "containmentInitiatedDate": "31.08.2020"
+    }
+  ]
+}

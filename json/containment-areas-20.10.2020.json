@@ -1,0 +1,236 @@
+{
+  "date": "20.10.2020",
+  "records": [
+    {
+      "serialNumber": 1,
+      "zone": 1,
+      "div": 4,
+      "area": "V.P Nagar 5th Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 2,
+      "zone": 1,
+      "div": 10,
+      "area": "Nellikaran Street",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 3,
+      "zone": 1,
+      "div": 11,
+      "area": "Sanathi Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 4,
+      "zone": 2,
+      "div": 17,
+      "area": "Perumal Koil Street Chettimedu",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 5,
+      "zone": 2,
+      "div": 19,
+      "area": "1st St,Bharathiyar Nagar,Chinnamathur",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 6,
+      "zone": 2,
+      "div": 19,
+      "area": "51th Street,MMDA",
+      "containmentInitiatedDate": "10.10.2020"
+    },
+    {
+      "serialNumber": 7,
+      "zone": 2,
+      "div": 19,
+      "area": "106th Street,MMDA",
+      "containmentInitiatedDate": "18.10.2020"
+    },
+    {
+      "serialNumber": 8,
+      "zone": 2,
+      "div": 19,
+      "area": "116th Street,MMDA",
+      "containmentInitiatedDate": "17.10.2020"
+    },
+    {
+      "serialNumber": 9,
+      "zone": 2,
+      "div": 21,
+      "area": "Srinivasan Street,Manali,Chennai-68",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 10,
+      "zone": 2,
+      "div": 21,
+      "area": "Thamaraikullam Street,Manali",
+      "containmentInitiatedDate": "17.10.2020"
+    },
+    {
+      "serialNumber": 11,
+      "zone": 2,
+      "div": 21,
+      "area": "NSK Street,Manali",
+      "containmentInitiatedDate": "10.10.2020"
+    },
+    {
+      "serialNumber": 12,
+      "zone": 4,
+      "div": 35,
+      "area": "KKD Nagar 5th Block 2nd Street",
+      "containmentInitiatedDate": "14.10.2020"
+    },
+    {
+      "serialNumber": 13,
+      "zone": 4,
+      "div": 36,
+      "area": "Nandhanar Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 14,
+      "zone": 4,
+      "div": 36,
+      "area": "MKB 16th West Cross Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 15,
+      "zone": 4,
+      "div": 36,
+      "area": "Sasthiri Nagar 3rd Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 16,
+      "zone": 4,
+      "div": 39,
+      "area": "Butchammal Street",
+      "containmentInitiatedDate": "09.10.2020"
+    },
+    {
+      "serialNumber": 17,
+      "zone": 4,
+      "div": 39,
+      "area": "Avoormuthaiyah Street",
+      "containmentInitiatedDate": "08.10.2020"
+    },
+    {
+      "serialNumber": 18,
+      "zone": 4,
+      "div": 44,
+      "area": "Thulasingam Street",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 19,
+      "zone": 5,
+      "div": 49,
+      "area": "Grace Garden 3rd Lane",
+      "containmentInitiatedDate": "10.10.2020"
+    },
+    {
+      "serialNumber": 20,
+      "zone": 5,
+      "div": 49,
+      "area": "Thandavarayan Street",
+      "containmentInitiatedDate": "10.10.2020"
+    },
+    {
+      "serialNumber": 21,
+      "zone": 5,
+      "div": 55,
+      "area": "Govindappa Street",
+      "containmentInitiatedDate": "13.10.2020"
+    },
+    {
+      "serialNumber": 22,
+      "zone": 5,
+      "div": 57,
+      "area": "Irulappan Street",
+      "containmentInitiatedDate": "13.10.2020"
+    },
+    {
+      "serialNumber": 23,
+      "zone": 5,
+      "div": 57,
+      "area": "Budraian Street",
+      "containmentInitiatedDate": "13.10.2020"
+    },
+    {
+      "serialNumber": 24,
+      "zone": 5,
+      "div": 62,
+      "area": "Swamy Street",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 25,
+      "zone": 5,
+      "div": 62,
+      "area": "Ayyaswamy Street",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 26,
+      "zone": 8,
+      "div": 96,
+      "area": "Metu Street Ayanavaram",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 27,
+      "zone": 8,
+      "div": 106,
+      "area": "Limeklin Street Aminjikarai,Ch-29",
+      "containmentInitiatedDate": "14.10.2020"
+    },
+    {
+      "serialNumber": 28,
+      "zone": 9,
+      "div": 111,
+      "area": "Aziz Mulk Street, Choolaimedu",
+      "containmentInitiatedDate": "14.10.2020"
+    },
+    {
+      "serialNumber": 29,
+      "zone": 9,
+      "div": 124,
+      "area": "Rakkiyappa Street",
+      "containmentInitiatedDate": "14.10.2020"
+    },
+    {
+      "serialNumber": 30,
+      "zone": 10,
+      "div": 142,
+      "area": "Narayanasamy 2nd st",
+      "containmentInitiatedDate": "09.10.2020"
+    },
+    {
+      "serialNumber": 31,
+      "zone": 13,
+      "div": 170,
+      "area": "Parameshwari Nagar 1st Street,Adyar",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 32,
+      "zone": 13,
+      "div": 176,
+      "area": "Danakotti Raja Street,Ekkattuthangal",
+      "containmentInitiatedDate": "14.10.2020"
+    },
+    {
+      "serialNumber": 33,
+      "zone": 15,
+      "div": 195,
+      "area": "Thiruvalluvar Street Okkiyam petti",
+      "containmentInitiatedDate": "17.10.2020"
+    }
+  ]
+}

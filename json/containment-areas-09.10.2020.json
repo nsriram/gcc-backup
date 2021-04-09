@@ -1,0 +1,495 @@
+{
+  "date": "09.10.2020",
+  "records": [
+    {
+      "serialNumber": 1,
+      "zone": 2,
+      "div": 15,
+      "area": "53/55,Manali New town,Chennai-103",
+      "containmentInitiatedDate": "26.09.2020"
+    },
+    {
+      "serialNumber": 2,
+      "zone": 2,
+      "div": 18,
+      "area": "No.38,Kuttiyappan Street, Manali,Chennai-68",
+      "containmentInitiatedDate": "26.09.2020"
+    },
+    {
+      "serialNumber": 3,
+      "zone": 2,
+      "div": 19,
+      "area": "Lake View Apartment",
+      "containmentInitiatedDate": "27.09.2020"
+    },
+    {
+      "serialNumber": 4,
+      "zone": 2,
+      "div": 20,
+      "area": "16/1, Ma.Po.C Street",
+      "containmentInitiatedDate": "26.09.2020"
+    },
+    {
+      "serialNumber": 5,
+      "zone": 4,
+      "div": 34,
+      "area": "Andal Nagar (Iswarya Nagar )",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 6,
+      "zone": 4,
+      "div": 36,
+      "area": "15th West Cross Street",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 7,
+      "zone": 4,
+      "div": 36,
+      "area": "19th Cross Street Rajeev Gandhi Nagar",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 8,
+      "zone": 4,
+      "div": 36,
+      "area": "MR Nagar 3rd Street",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 9,
+      "zone": 4,
+      "div": 36,
+      "area": "Nandhanar Street",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 10,
+      "zone": 4,
+      "div": 36,
+      "area": "MKB 16th West cross Street",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 11,
+      "zone": 4,
+      "div": 36,
+      "area": "Sasthri Nagar 3rd Street",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 12,
+      "zone": 4,
+      "div": 37,
+      "area": "MKB Nagar 19th Central Cross Street",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 13,
+      "zone": 4,
+      "div": 40,
+      "area": "Keeraithottam",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 14,
+      "zone": 4,
+      "div": 44,
+      "area": "Thulasingam Street",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 15,
+      "zone": 4,
+      "div": 45,
+      "area": "Shanthi Nagar 3rd Street",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 16,
+      "zone": 5,
+      "div": 62,
+      "area": "Swamy Street",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 17,
+      "zone": 5,
+      "div": 62,
+      "area": "Ayyaswamy Street",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 18,
+      "zone": 6,
+      "div": 64,
+      "area": "Anjugam Nagar 2nd Street,Kolathur,",
+      "containmentInitiatedDate": "29.09.2020"
+    },
+    {
+      "serialNumber": 19,
+      "zone": 6,
+      "div": 64,
+      "area": "Poompuhar Nagar 25th Street,Kolathur",
+      "containmentInitiatedDate": "29.09.2020"
+    },
+    {
+      "serialNumber": 20,
+      "zone": 7,
+      "div": 79,
+      "area": "Lenin Nagar, 9th Cross Street, Ambattur",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 21,
+      "zone": 7,
+      "div": 79,
+      "area": "EVR Street Vinayaga Puram oragadam",
+      "containmentInitiatedDate": "05.10.2020"
+    },
+    {
+      "serialNumber": 22,
+      "zone": 7,
+      "div": 80,
+      "area": "New Anna Nagar 4th Cross Street",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 23,
+      "zone": 7,
+      "div": 80,
+      "area": "Pillaiyar Koil Street East banu Nagar",
+      "containmentInitiatedDate": "05.10.2020"
+    },
+    {
+      "serialNumber": 24,
+      "zone": 7,
+      "div": 80,
+      "area": "2 4th Avenue Banu Nagar",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 25,
+      "zone": 7,
+      "div": 81,
+      "area": "6th Main Road,Chola Puram",
+      "containmentInitiatedDate": "29.09.2020"
+    },
+    {
+      "serialNumber": 26,
+      "zone": 7,
+      "div": 82,
+      "area": "Devashi Street,Gnanamoorthi Nagar",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 27,
+      "zone": 7,
+      "div": 80,
+      "area": "Mariamman Koil Street,Oragadam",
+      "containmentInitiatedDate": "07.10.2020"
+    },
+    {
+      "serialNumber": 28,
+      "zone": 7,
+      "div": 82,
+      "area": "1st Main Road,Thendral Nagar",
+      "containmentInitiatedDate": "27.09.2020"
+    },
+    {
+      "serialNumber": 29,
+      "zone": 7,
+      "div": 83,
+      "area": "Pandiyan Street Thathanakuppam, Korattur",
+      "containmentInitiatedDate": "26.09.2020"
+    },
+    {
+      "serialNumber": 30,
+      "zone": 7,
+      "div": 84,
+      "area": "TNHB,Korattur",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 31,
+      "zone": 7,
+      "div": 84,
+      "area": "Station Road,Korattur",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 32,
+      "zone": 7,
+      "div": 86,
+      "area": "New Century Road, Athipet",
+      "containmentInitiatedDate": "25.09.2020"
+    },
+    {
+      "serialNumber": 33,
+      "zone": 7,
+      "div": 87,
+      "area": "Yadava Street,Padi",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 34,
+      "zone": 7,
+      "div": 88,
+      "area": "Park Road,Padi",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 35,
+      "zone": 7,
+      "div": 88,
+      "area": "North Park Road,Padi",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 36,
+      "zone": 7,
+      "div": 88,
+      "area": "9th st,Anna Nagar West Extn",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 37,
+      "zone": 7,
+      "div": 88,
+      "area": "Mettukulam,Padi",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 38,
+      "zone": 7,
+      "div": 89,
+      "area": "TVS Avenue,Anna Nagar West extn",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 39,
+      "zone": 7,
+      "div": 89,
+      "area": "Sathya Nagar,Padi",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 40,
+      "zone": 7,
+      "div": 90,
+      "area": "TNHB flat, Thirumangalam",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 41,
+      "zone": 7,
+      "div": 91,
+      "area": "3rd Block Mogappair West",
+      "containmentInitiatedDate": "29.09.2020"
+    },
+    {
+      "serialNumber": 42,
+      "zone": 7,
+      "div": 92,
+      "area": "Vellalar Street,Mogappair East",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 43,
+      "zone": 7,
+      "div": 92,
+      "area": "Mohan Ram Nagar Mogappair",
+      "containmentInitiatedDate": "04.10.2020"
+    },
+    {
+      "serialNumber": 44,
+      "zone": 7,
+      "div": 92,
+      "area": "12th Block Pachaiappar Salai, Mogappair East",
+      "containmentInitiatedDate": "04.10.2020"
+    },
+    {
+      "serialNumber": 45,
+      "zone": 7,
+      "div": 92,
+      "area": "Venugopalst,Mogappair East",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 46,
+      "zone": 7,
+      "div": 92,
+      "area": "Vgnraksha Churchst Mogappair East",
+      "containmentInitiatedDate": "04.10.2020"
+    },
+    {
+      "serialNumber": 47,
+      "zone": 7,
+      "div": 93,
+      "area": "Trinity Church Road,Golden George Mogappair",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 48,
+      "zone": 7,
+      "div": 93,
+      "area": "3rd Block Mogappair East",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 49,
+      "zone": 8,
+      "div": 96,
+      "area": "New Street,Ayanavaram",
+      "containmentInitiatedDate": "28.09.2020"
+    },
+    {
+      "serialNumber": 50,
+      "zone": 8,
+      "div": 96,
+      "area": "Palayakara Street Ayanavaram,Ch-23",
+      "containmentInitiatedDate": "03.10.2020"
+    },
+    {
+      "serialNumber": 51,
+      "zone": 8,
+      "div": 96,
+      "area": "Metu Street Ayanavaram",
+      "containmentInitiatedDate": "06.10.2020"
+    },
+    {
+      "serialNumber": 52,
+      "zone": 9,
+      "div": 109,
+      "area": "Ameerjohn Street,Choolaimedu",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 53,
+      "zone": 9,
+      "div": 114,
+      "area": "Akbar Street,Triplicane",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 54,
+      "zone": 9,
+      "div": 114,
+      "area": "Vallabhaagraharam, Triplicane",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 55,
+      "zone": 9,
+      "div": 116,
+      "area": "Thandavarayan Mudali Street, Triplicane",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 56,
+      "zone": 10,
+      "div": 133,
+      "area": "Rukamani Street",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 57,
+      "zone": 10,
+      "div": 135,
+      "area": "Kirubhashankar Street",
+      "containmentInitiatedDate": "30.09.2020"
+    },
+    {
+      "serialNumber": 58,
+      "zone": 10,
+      "div": 139,
+      "area": "Annamalai Nagar 3rd Street",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 59,
+      "zone": 11,
+      "div": 143,
+      "area": "Phase-I 17th Cross Street",
+      "containmentInitiatedDate": "29.09.2020"
+    },
+    {
+      "serialNumber": 60,
+      "zone": 12,
+      "div": 156,
+      "area": "Subashree Nagar 4th Street, Mugalivakkam",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 61,
+      "zone": 12,
+      "div": 165,
+      "area": "Surendar Nagar,4th Street,Adambakkam",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 62,
+      "zone": 12,
+      "div": 165,
+      "area": "Suprabharatha flat C1 Ram Nagar 4th Main rd",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 63,
+      "zone": 12,
+      "div": 167,
+      "area": "Voltas Colony,1st Street,Nanganallur",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 64,
+      "zone": 12,
+      "div": 167,
+      "area": "Hindu Colony,1st cross Street Nanganallur",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 65,
+      "zone": 13,
+      "div": 177,
+      "area": "Gandhiyar Street,Velachery",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 66,
+      "zone": 13,
+      "div": 177,
+      "area": "Mahalakshmi Nagar 7th Cross st,Adambakkam",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 67,
+      "zone": 13,
+      "div": 177,
+      "area": "ASK Nagar 1st Cross Street,Velachery",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 68,
+      "zone": 13,
+      "div": 180,
+      "area": "Kalaignar Nagar 4th Street",
+      "containmentInitiatedDate": "02.10.2020"
+    },
+    {
+      "serialNumber": 69,
+      "zone": 15,
+      "div": 192,
+      "area": "Periya Neelankarai Kuppam, Neelankarai,",
+      "containmentInitiatedDate": "01.10.2020"
+    },
+    {
+      "serialNumber": 70,
+      "zone": 15,
+      "div": 198,
+      "area": "Gandhi Nagar Kadaikuttaimedu",
+      "containmentInitiatedDate": "30.09.2020"
+    }
+  ]
+}
