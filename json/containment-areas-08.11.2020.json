@@ -1,0 +1,19 @@
+{
+  "date": "08.11.2020",
+  "records": [
+    {
+      "serialNumber": 1,
+      "zone": 2,
+      "div": 19,
+      "area": "Manjabakkam",
+      "containmentInitiatedDate": "27.10.2020"
+    },
+    {
+      "serialNumber": 2,
+      "zone": 2,
+      "div": 18,
+      "area": "GEE GEE Steel Company",
+      "containmentInitiatedDate": "29.10.2020"
+    }
+  ]
+}

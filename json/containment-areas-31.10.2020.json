@@ -1,0 +1,33 @@
+{
+  "date": "31.10.2020",
+  "records": [
+    {
+      "serialNumber": 1,
+      "zone": 2,
+      "div": 19,
+      "area": "106th Street,MMDA",
+      "containmentInitiatedDate": "18.10.2020"
+    },
+    {
+      "serialNumber": 2,
+      "zone": 2,
+      "div": 19,
+      "area": "116th Street,MMDA",
+      "containmentInitiatedDate": "17.10.2020"
+    },
+    {
+      "serialNumber": 3,
+      "zone": 2,
+      "div": 21,
+      "area": "Thamaraikullam Street, Manali",
+      "containmentInitiatedDate": "17.10.2020"
+    },
+    {
+      "serialNumber": 4,
+      "zone": 15,
+      "div": 195,
+      "area": "Thiruvalluvar Street Okkiyam petti",
+      "containmentInitiatedDate": "17.10.2020"
+    }
+  ]
+}
